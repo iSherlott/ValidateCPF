@@ -5,7 +5,7 @@
 
 ## Screenshot
 
-<img href="https://github.com/iSherlott/ValidateCPF/blob/main/assets/img/screenshot.PNG?raw=true">
+<img src="https://github.com/iSherlott/ValidateCPF/blob/main/assets/img/screenshot.PNG?raw=true">
 
 ## Explicação do código
 
